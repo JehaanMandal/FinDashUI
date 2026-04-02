@@ -3,6 +3,8 @@
 
 **FinDashUI** is a modern, responsive finance dashboard built with **React**, **Redux Toolkit**, **Tailwind CSS**, **React Router**, and **Recharts**. It helps users track income, expenses, and financial insights in a sleek, interactive UI.
 
+Link: https://financetechui.vercel.app
+
 ---
 <img width="1916" height="858" alt="Screenshot 2026-04-02 191722" src="https://github.com/user-attachments/assets/fbd59a0b-2e09-4969-bcc9-07ee070da774" />
 
