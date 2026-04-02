@@ -36,33 +36,6 @@
 - **Vite** – Build tool for fast development
 
 ---
-
-## Project Structure
-
-FinDashUI/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── SummaryCards.jsx
-│   │   ├── Charts.jsx
-│   │   ├── Insights.jsx
-│   │
-│   ├── pages/
-│   │   ├── Dashboard.jsx
-│   │   ├── Transactions.jsx
-│   │
-│   ├── store/
-│   │   ├── store.js
-│   │   ├── financeSlice.js
-│   │
-│   ├── App.jsx
-│   ├── main.jsx
-│   ├── index.css
-├── package.json
-├── vite.config.js
-
-
----
 ## Installation
 
 1. Clone the repository:
